@@ -1,3 +1,3 @@
 <?php
-	echo "coba brow!";
+	echo "coba brow kplok!";
 php?>
