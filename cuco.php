@@ -1,3 +1,3 @@
 <?php
-	echo "im prorammer!";
+	echo "im cuco!";
 php?>
