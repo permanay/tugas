@@ -1,3 +1,3 @@
 <?php
-	echo "im cucoooooooooooo!";
+	echo "im culadi!";
 php?>
